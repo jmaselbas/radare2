@@ -83,6 +83,7 @@ asm_plugins = [
   'i4004',
   'i8080',
   'java',
+  'kvx',
   'lanai_gnu',
   'lh5801',
   'lm32',
